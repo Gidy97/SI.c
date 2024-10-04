@@ -19,7 +19,7 @@ int main() {
     printf("Please enter your annual income (in sh): ");
     scanf("%f", &income);
 
-    if (age >= 18 & income >24000)) {
+    if (age >= 21 & income >21000)) {
         printf("Congratulations! You qualify for a loan.\n");
     } else {
         printf("Unfortunately, we are unable to offer you a loan at this time.\n");
