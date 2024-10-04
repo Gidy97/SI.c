@@ -2,7 +2,7 @@
 /*
 program to calcuate charges in the library
 Author:Gedion Kimutai Cheruiyot
-Reg no:CT101/24133/24
+Reg no:CT101/G/24133/24
 Date:28/9/2024
 */
 //preprocessor directive-printf(),scanf()
