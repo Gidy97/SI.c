@@ -33,22 +33,22 @@ int main(){
 	printf("The Overdue is:%.1f \n",Overdue);
 	
 	
-	if(Overdue <=9){
-	Charges=Overdue*25;
+	if(Overdue <=7){
+	Charges=Overdue*20;
 	printf("The Charges is:%.1f \n",Charges);}
 	
 	
     
-	  else if(Overdue<=15){
-    ;Charges=Overdue*60
+	  else if(Overdue<=14){
+    ;Charges=Overdue*50
     ;printf("The Charges is:%.1f \n",Charges);}
     
    
     
   
       else{
-	  (Overdue>=20)
-    ;Charges=Overdue*90
+	  (Overdue>=15)
+    ;Charges=Overdue*100
     ;printf("The Charges is:%.1f \n",Charges);}
  
 	return 0;
