@@ -1,7 +1,7 @@
 //program to calculate compound interest
 
 /*
-Progam to calaculate compound interest
+Progam to calculate compound interest
 Author:Gedion Kimutai Cheruiyot
 Reg No:CT101/G/24133/24
 Date:27/09/2024`
